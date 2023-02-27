@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hemant</h1>
 
 # 💻My resume
-[![Engineering Manager](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://github.com/hkb06542/hkb06542/blob/afc39a0e66a004f95b6cac6ea29dbb263e810335/Resume-Hemant-Barapatre.pdf) [![Software Developer](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://github.com/hkb06542/hkb06542/blob/588eb1e7b9d0ed266908e5576be1161c6d1c74e6/Hemant_Kumar%20software%20Engg.pdf)
+[![Engineering Manager](https://img.shields.io/badge/Engineering%20Manager%20Resume-Click%20Here-green)](https://github.com/hkb06542/hkb06542/blob/afc39a0e66a004f95b6cac6ea29dbb263e810335/Resume-Hemant-Barapatre.pdf) [![Software Developer](https://img.shields.io/badge/Old%20Resume%20Software%20engineer-Click%20Here-brightgreen)](https://github.com/hkb06542/hkb06542/blob/588eb1e7b9d0ed266908e5576be1161c6d1c74e6/Hemant_Kumar%20software%20Engg.pdf)
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/omgamganpateynamahaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemant-barapatre-%E2%98%81-55611317/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/goku06542) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/hemantkumarbarapatre) 
