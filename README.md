@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hemant</h1>
 
 # 💻My resume
-[![Engineering Manager](https://img.shields.io/badge/Old%20Resume%20Software%20engineer-Click%20Here-brightgreen)](https://github.com/hkb06542/hkb06542/blob/main/HemantBaraapatre_EngineeringManager.pdf) [![Software Developer](https://img.shields.io/badge/Old%20Resume%20Software%20engineer-Click%20Here-brightgreen)](https://github.com/hkb06542/hkb06542/blob/588eb1e7b9d0ed266908e5576be1161c6d1c74e6/Hemant_Kumar%20software%20Engg.pdf)
+[![Engineering Manager](https://img.shields.io/badge/Engineering%20Manager-Click%20Here-brightgreen)](https://github.com/hkb06542/hkb06542/blob/main/HemantBaraapatre_EngineeringManager.pdf) [![Software Developer](https://img.shields.io/badge/Old%20Resume%20Software%20engineer-Click%20Here-brightgreen)](https://github.com/hkb06542/hkb06542/blob/588eb1e7b9d0ed266908e5576be1161c6d1c74e6/Hemant_Kumar%20software%20Engg.pdf)
 
 
 
